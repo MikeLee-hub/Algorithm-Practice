@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\문제">
+      <UniqueIdentifier>{0357b576-8bf2-47ab-9bd4-c83a37423431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제">
+      <UniqueIdentifier>{bd68fbde-5caa-4467-929b-73e832f06023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제\3.그리디">
+      <UniqueIdentifier>{b7cfa504-a983-4ab6-afd8-e69a616085a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제\4.구현">
+      <UniqueIdentifier>{971ea7cb-7c80-4cfc-84e0-b04438f565ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제\5.DFS,BFS">
+      <UniqueIdentifier>{88b163df-fc9e-4e05-924c-c636f134b886}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\11.그리디">
+      <UniqueIdentifier>{ac2286e7-93be-4181-848f-65f5b43bd984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\12.구현">
+      <UniqueIdentifier>{121b7fe0-ecc4-49d2-aeb2-14ab307ea9f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문제\13.DFS,BFS">
+      <UniqueIdentifier>{e14de487-01bc-4c56-88ac-9b0c6b646629}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
+      <Filter>소스 파일\예제\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\3.그리디-예제\3-2.cpp">
+      <Filter>소스 파일\예제\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\3.그리디-예제\3-3.cpp">
+      <Filter>소스 파일\예제\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\3.그리디-예제\3-4.cpp">
+      <Filter>소스 파일\예제\3.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\4.구현-예제\4-1-1.cpp">
+      <Filter>소스 파일\예제\4.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\4.구현-예제\4-1-2.cpp">
+      <Filter>소스 파일\예제\4.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\4.구현-예제\4-2.cpp">
+      <Filter>소스 파일\예제\4.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\4.구현-예제\4-3.cpp">
+      <Filter>소스 파일\예제\4.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\5.DFS,BFS-예제\5-3.cpp">
+      <Filter>소스 파일\예제\5.DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\5.DFS,BFS-예제\5-4.cpp">
+      <Filter>소스 파일\예제\5.DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\11.그리디-문제\11-1.cpp">
+      <Filter>소스 파일\문제\11.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\11.그리디-문제\11-2.cpp">
+      <Filter>소스 파일\문제\11.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\11.그리디-문제\11-3.cpp">
+      <Filter>소스 파일\문제\11.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\11.그리디-문제\11-4.cpp">
+      <Filter>소스 파일\문제\11.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\11.그리디-문제\11-5.cpp">
+      <Filter>소스 파일\문제\11.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\11.그리디-문제\11-6.cpp">
+      <Filter>소스 파일\문제\11.그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-7.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-8.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-9.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-10.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-11.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-12.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-13.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\12.구현-문제\12-14.cpp">
+      <Filter>소스 파일\문제\12.구현</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\13.DFS,BFS-문제\13-15.cpp">
+      <Filter>소스 파일\문제\13.DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\13.DFS,BFS-문제\13-16.cpp">
+      <Filter>소스 파일\문제\13.DFS,BFS</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
