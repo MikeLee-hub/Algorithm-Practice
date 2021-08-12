@@ -123,5 +123,8 @@
     <ClCompile Include="code\문제\13.DFS,BFS-문제\13-18.cpp">
       <Filter>소스 파일\문제\13.DFS,BFS</Filter>
     </ClCompile>
+    <ClCompile Include="code\문제\13.DFS,BFS-문제\13-19.cpp">
+      <Filter>소스 파일\문제\13.DFS,BFS</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
