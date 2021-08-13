@@ -12,7 +12,7 @@ int a[12];
 int num[4];
 int max_ans, min_ans;
 
-void bfs(int depth, int ans) {
+void dfs(int depth, int ans) {
 	int i;
 	int new_ans;
 	int result = 0;
@@ -34,7 +34,7 @@ void bfs(int depth, int ans) {
 				new_ans = ans * a[depth];
 			else if (i == 3)
 				new_ans = ans / a[depth];
-			bfs(depth + 1, new_ans);
+			dfs(depth + 1, new_ans);
 			num[i]++;
 		}
 	}
@@ -50,7 +50,7 @@ int main() {
 		scanf("%d", &num[i]);
 	max_ans = -1000000000;
 	min_ans = 1000000000;
-	bfs(1, a[0]);
+	dfs(1, a[0]);
 	printf("%d\n%d", max_ans, min_ans);
 	return 0;
 }
