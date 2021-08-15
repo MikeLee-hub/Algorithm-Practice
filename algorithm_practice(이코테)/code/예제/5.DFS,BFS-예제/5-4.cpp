@@ -39,7 +39,7 @@ int bfs() {
 	que_y.push(0);
 	is_visited[0][0] = 1;
 
-	while (1) {
+	while (!que_x.empty()) {
 		x = que_x.front();
 		que_x.pop();
 		y = que_y.front();

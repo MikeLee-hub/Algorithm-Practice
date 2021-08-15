@@ -34,7 +34,7 @@ void bfs() {
 	queue<int> que_y;
 
 	for (i = 0; i < n; i++) 
-		memset(depth, 0, sizeof(int) * n);
+		memset(depth[i], 0, sizeof(int) * n);
 
 	for (i = 1; i <= k; i++) {
 		len = virus_list[i].size();
