@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\문제\13.DFS,BFS">
       <UniqueIdentifier>{e14de487-01bc-4c56-88ac-9b0c6b646629}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\예제\6.정렬">
+      <UniqueIdentifier>{72ed8acb-a5eb-4eda-a034-af8ea634146b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -134,6 +137,15 @@
     </ClCompile>
     <ClCompile Include="code\문제\13.DFS,BFS-문제\13-22.cpp">
       <Filter>소스 파일\문제\13.DFS,BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\6.정렬-예제\6-1.cpp">
+      <Filter>소스 파일\예제\6.정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\6.정렬-예제\6-2.cpp">
+      <Filter>소스 파일\예제\6.정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\6.정렬-예제\6-3.cpp">
+      <Filter>소스 파일\예제\6.정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
