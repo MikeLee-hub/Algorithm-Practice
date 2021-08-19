@@ -147,5 +147,8 @@
     <ClCompile Include="code\예제\6.정렬-예제\6-3.cpp">
       <Filter>소스 파일\예제\6.정렬</Filter>
     </ClCompile>
+    <ClCompile Include="code\예제\6.정렬-예제\6-4.cpp">
+      <Filter>소스 파일\예제\6.정렬</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
