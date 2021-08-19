@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\예제\6.정렬">
       <UniqueIdentifier>{72ed8acb-a5eb-4eda-a034-af8ea634146b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문제\14.정렬">
+      <UniqueIdentifier>{fa6a65c1-3516-4a9f-ada6-d26193513b14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -149,6 +152,9 @@
     </ClCompile>
     <ClCompile Include="code\예제\6.정렬-예제\6-4.cpp">
       <Filter>소스 파일\예제\6.정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\14.정렬-문제\14-23.cpp">
+      <Filter>소스 파일\문제\14.정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
