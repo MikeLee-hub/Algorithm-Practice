@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\예제\7.이진탐색">
       <UniqueIdentifier>{6996876a-f3b1-40a8-ab55-8b618d94b296}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문제\15.이진탐색">
+      <UniqueIdentifier>{3ae842b4-d49d-4839-ae13-e34bf7a6fde3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -173,6 +176,18 @@
     </ClCompile>
     <ClCompile Include="code\예제\7.이진탐색-예제\7-2.cpp">
       <Filter>소스 파일\예제\7.이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\7.이진탐색-예제\7-3.cpp">
+      <Filter>소스 파일\예제\7.이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\15.이진탐색-문제\15-27.cpp">
+      <Filter>소스 파일\문제\15.이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\15.이진탐색-문제\15-28.cpp">
+      <Filter>소스 파일\문제\15.이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\15.이진탐색-문제\15-29.cpp">
+      <Filter>소스 파일\문제\15.이진탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
