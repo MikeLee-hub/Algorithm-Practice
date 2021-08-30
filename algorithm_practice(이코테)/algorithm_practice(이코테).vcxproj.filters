@@ -189,5 +189,8 @@
     <ClCompile Include="code\문제\15.이진탐색-문제\15-29.cpp">
       <Filter>소스 파일\문제\15.이진탐색</Filter>
     </ClCompile>
+    <ClCompile Include="code\문제\15.이진탐색-문제\15-30.cpp">
+      <Filter>소스 파일\문제\15.이진탐색</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
