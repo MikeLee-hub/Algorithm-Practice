@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\문제\15.이진탐색">
       <UniqueIdentifier>{3ae842b4-d49d-4839-ae13-e34bf7a6fde3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\예제\8.다이나믹프로그래밍">
+      <UniqueIdentifier>{9ff8057f-7130-45b1-84bf-2f201b842edf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -191,6 +194,9 @@
     </ClCompile>
     <ClCompile Include="code\문제\15.이진탐색-문제\15-30.cpp">
       <Filter>소스 파일\문제\15.이진탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\8.다이나믹프로그래밍-예제\8-2.cpp">
+      <Filter>소스 파일\예제\8.다이나믹프로그래밍</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
