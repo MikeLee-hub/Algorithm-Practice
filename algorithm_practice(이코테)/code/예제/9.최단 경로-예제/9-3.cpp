@@ -44,7 +44,7 @@ int dijkstra(int start, int end) {
 	visited[start] = 0;
 
 	while (!frontier.empty()) {
-		c_cost = frontier.top().first;
+		c_cost = -1 * frontier.top().first;
 		c_node = frontier.top().second;
 		frontier.pop();
 		if (c_node == end)
@@ -57,7 +57,7 @@ int dijkstra(int start, int end) {
 			if (!path[c_node][i])
 				continue;
 			if (visited[i] > c_cost) {
-				frontier.push(make_pair(c_cost, i));
+				frontier.push(make_pair(-1 * c_cost, i));
 				visited[i] = c_cost;
 			}
 		}
