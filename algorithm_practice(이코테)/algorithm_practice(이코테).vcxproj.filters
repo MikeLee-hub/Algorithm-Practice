@@ -58,6 +58,9 @@
     <Filter Include="소스 파일\예제\9.최단 경로">
       <UniqueIdentifier>{ba17fffc-4a37-4ce7-ad50-5d32234da51e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문제\17.최단경로">
+      <UniqueIdentifier>{3b1d376a-e388-49d3-98b0-cbcff89a4079}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -242,6 +245,9 @@
     </ClCompile>
     <ClCompile Include="code\예제\9.최단 경로-예제\9-4.cpp">
       <Filter>소스 파일\예제\9.최단 경로</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\17.최단경로-문제\17-37.cpp">
+      <Filter>소스 파일\문제\17.최단경로</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
