@@ -252,5 +252,8 @@
     <ClCompile Include="code\문제\17.최단경로-문제\17-38.cpp">
       <Filter>소스 파일\문제\17.최단경로</Filter>
     </ClCompile>
+    <ClCompile Include="code\문제\17.최단경로-문제\17-39.cpp">
+      <Filter>소스 파일\문제\17.최단경로</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
