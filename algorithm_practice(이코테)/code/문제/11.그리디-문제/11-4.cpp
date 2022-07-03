@@ -1,4 +1,4 @@
-// 11-4. 만들 수 없는 금액 (p.314)
+// 11-4. 만들 수 없는 금액 (p.314) (백준 2437번)
 
 /*
 1~n번째 coin으로 k까지 만들 수 있으면,
@@ -26,7 +26,7 @@ int main() {
 
 	qsort(coin, total, sizeof(int), comp);
 	target = 1;
-	for (i = 0; 1; i++) {
+	for (i = 0; i < total; i++) {
 		if (target < coin[i])
 			break;
 		target += coin[i];

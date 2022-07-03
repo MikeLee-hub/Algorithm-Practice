@@ -1,4 +1,4 @@
-// 5-4. 미로 탈출 (p.152)
+// 5-4. 미로 탈출 (p.152) (백준 2178번)
 
 /*
 	bfs 이용.
@@ -14,6 +14,7 @@
 */
 
 #include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 #include <queue>
 

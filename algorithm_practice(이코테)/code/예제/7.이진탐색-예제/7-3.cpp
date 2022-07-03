@@ -1,4 +1,4 @@
-// 7-3. 떡볶이 떡 만들기 (p.201)
+// 7-3. 떡볶이 떡 만들기 (p.201) (백준 2805번)
 
 /*
 	n이 m보다 많이 많이 작으므로 m에 대한 시간복잡도가 작아야함
@@ -17,19 +17,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int len[1000000];
+int len[1000005];
 int n, m;
 
 int comp(const void* a, const void* b) {
 	return(*(int*)a - *(int*)b);
 }
 
-int get_cut_len(int m) {
+long long get_cut_len(int m) {
 	int i;
-	int hab = 0;
+	long long hab = 0;
 	for (i = 0; i < n; i++) {
 		if (len[i] > m)
-			hab += len[i] - m;
+			hab = hab + ((long long)len[i]) - m;
 	}
 	return hab;
 }
@@ -37,7 +37,7 @@ int get_cut_len(int m) {
 int binary_search(int end) {
 	int start = 0;
 	int middle;
-	int tmp_len;
+	long long tmp_len;
 
 	while (start<=end) {
 		middle = (start + end) / 2;
