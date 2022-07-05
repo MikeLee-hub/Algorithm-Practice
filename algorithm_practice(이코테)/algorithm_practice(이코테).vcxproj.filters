@@ -61,6 +61,9 @@
     <Filter Include="소스 파일\문제\17.최단경로">
       <UniqueIdentifier>{3b1d376a-e388-49d3-98b0-cbcff89a4079}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\예제\10.그래프 이론">
+      <UniqueIdentifier>{7566fe99-9f3b-4cdf-bfd6-938e83434993}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -257,6 +260,9 @@
     </ClCompile>
     <ClCompile Include="code\문제\17.최단경로-문제\17-40.cpp">
       <Filter>소스 파일\문제\17.최단경로</Filter>
+    </ClCompile>
+    <ClCompile Include="code\예제\10.그래프 이론-예제\10-1.cpp">
+      <Filter>소스 파일\예제\10.그래프 이론</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
