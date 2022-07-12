@@ -291,5 +291,8 @@
     <ClCompile Include="code\예제\10.그래프 이론-예제\10-6.cpp">
       <Filter>소스 파일\예제\10.그래프 이론</Filter>
     </ClCompile>
+    <ClCompile Include="code\문제\18.그래프이론-문제\18-44.cpp">
+      <Filter>소스 파일\문제\18.그래프이론</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
