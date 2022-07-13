@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\문제\18.그래프이론">
       <UniqueIdentifier>{1ab8b792-fa9e-47e1-ab9d-2e1c39a657e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문제\19.기출">
+      <UniqueIdentifier>{f065e605-57f2-4b5a-8fa6-6c0d2ed400f2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="code\예제\3.그리디-예제\3-1.cpp">
@@ -296,6 +299,9 @@
     </ClCompile>
     <ClCompile Include="code\문제\18.그래프이론-문제\18-45.cpp">
       <Filter>소스 파일\문제\18.그래프이론</Filter>
+    </ClCompile>
+    <ClCompile Include="code\문제\19.기출-문제\19-46.cpp">
+      <Filter>소스 파일\문제\19.기출</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
