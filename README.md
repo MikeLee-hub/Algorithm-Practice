@@ -28,3 +28,4 @@
   + chap16. [다이나믹 프로그래밍 문제](https://github.com/MikeLee-hub/Algorithm-Practice/tree/master/algorithm_practice(이코테)/code/문제/16.다이나믹프로그래밍-문제)
   + chap17. [최단 경로 문제](https://github.com/MikeLee-hub/Algorithm-Practice/tree/master/algorithm_practice(이코테)/code/문제/17.최단경로-문제)
   + chap18. [그래프 이론 문제](https://github.com/MikeLee-hub/Algorithm-Practice/tree/master/algorithm_practice(이코테)/code/문제/18.그래프이론-문제)
+  + chap19. [기출 문제](https://github.com/MikeLee-hub/Algorithm-Practice/tree/master/algorithm_practice(이코테)/code/문제/19.기출-문제)
