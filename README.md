@@ -1,7 +1,8 @@
 # Algorithm Practice
 
 알고리즘 스터디 내 코드 모음
-
+###
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neohaps)](https://solved.ac/neohaps)
 
 ## 
 #### 교재 
